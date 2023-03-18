@@ -9,11 +9,12 @@ int main()
         for(int j=1;j<=n;j++)
         {
             if((i+j)>n)
-            cout<<i;
+            cout<<i<<" ";
         }
         cout<<endl;
     }
-    for(int i=1;i<=n;i++)
+// --------------- OR ------------------//
+/*    for(int i=1;i<=n;i++)
     {
         for(int j=1;j<=i;j++)
         {
@@ -21,4 +22,5 @@ int main()
         }
         cout<<endl;
     }
+*/
 }
