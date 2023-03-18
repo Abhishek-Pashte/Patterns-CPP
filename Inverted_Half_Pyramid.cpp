@@ -13,13 +13,13 @@ int main()
         cout<<endl;
     }
 
-    for(int i=0;i<n;i++)
-    {
-        for(int j=0;j<i;j++)
-        {
-            if(i>=j)
-            cout<<"* ";
-        }
-        cout<<endl;
-    }
+//     for(int i=0;i<n;i++)
+//     {
+//         for(int j=0;j<i;j++)
+//         {
+//             if(i>=j)
+//             cout<<"* ";
+//         }
+//         cout<<endl;
+//     }
 }
