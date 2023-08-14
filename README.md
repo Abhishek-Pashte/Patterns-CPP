@@ -121,6 +121,14 @@
                 <img src="Images/ZigZagPattern.jpg" alt="Basic-Rectangle" style="display: block; margin-left: auto; margin-right: auto;">
             </td>
         </tr>
+        <tr>
+            <td>15</td>
+            <td> <a href=""></a></td>
+            <td>5</td>
+            <td>
+                <img src="Images/PascalTriangle.jpg" alt="Pascal-Triangle" style="display: block; margin-left: auto; margin-right: auto;">
+            </td>
+        </tr>
       </table>
 </body>
 </html>
