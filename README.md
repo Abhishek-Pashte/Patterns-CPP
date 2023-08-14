@@ -123,7 +123,7 @@
         </tr>
         <tr>
             <td>15</td>
-            <td> <a href=""></a></td>
+            <td> <a href="https://github.com/Abhishek-Pashte/Patterns-CPP/blob/main/Programs/PascalTriangle.cpp">Pascal Triangle</a></td>
             <td>5</td>
             <td>
                 <img src="Images/PascalTriangle.jpg" alt="Pascal-Triangle" style="display: block; margin-left: auto; margin-right: auto;">
