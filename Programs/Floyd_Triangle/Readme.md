@@ -29,7 +29,7 @@
       </tr>
       <tr>
         <td>3.</td>
-        <td>Sum of nth row</td>
+        <td><a href="https://github.com/Abhishek-Pashte/Patterns-CPP/tree/main/Programs/Floyd_Triangle">Sum of nth row</a></td>
         <td>n=5<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br><code>11 12 13 14 15</code><br><code>ans = 65</code></td>
         <td>S=n(sqr(n)+1)/2</td>
       </tr>
