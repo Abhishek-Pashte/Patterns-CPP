@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int sumOfElementsOfnthRow(int n){
+    return ((n*((n*n)+1))/2);
+}
+int main(){
+    int n=4;
+    cout<<sumOfElementsOfnthRow(n);
+}
