@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td>3</td>
-            <td> <a href="https://github.com/Abhishek-Pashte/Patterns-CPP/blob/main/Programs/Floyd_Triangle.cpp"> Floyd-Triangle </a> </td>
+            <td> <a href="https://github.com/Abhishek-Pashte/Patterns-CPP/blob/main/Programs/Floyd_Triangle/Floyd_Triangle.cpp"> Floyd-Triangle </a> </td>
             <td>5</td>
             <td>
                 <img src="Images/FloydTriangle.jpg" alt="Basic-Rectangle" style="display: block; margin-left: auto; margin-right: auto;">
