@@ -12,7 +12,7 @@
       </tr>
       <tr>
         <td>1.</td>
-        <td>Pattern</td>
+        <td><a href="https://github.com/Abhishek-Pashte/Patterns-CPP/blob/main/Programs/Floyd_Triangle/Floyd_Triangle.cpp">Pattern</a></td>
         <td>n=5<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15</td>
         <td>-</td>
       </tr>
