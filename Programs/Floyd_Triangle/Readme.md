@@ -18,11 +18,13 @@
       </tr>
       <tr>
         <td>2.</td>
-        <td>Total number of elements in Triangle<br> Last element of each row</td>
+        <td><a href="https://github.com/Abhishek-Pashte/Patterns-CPP/blob/main/Programs/Floyd_Triangle/Number%20of%20Elements%20in%20Triangle">Total number of elements in Triangle<br> Last element of each row</a></td>
         <td>n=5<br>1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 <code>15</code><br><code>ans = 15</code></td>
         <td>S=(n/2)*(2a+(n-1)/d)<br><br>
           a=1, d=1<br>
-          S=(n/2)*(2+(n-1))
+          S=(n/2)*(2+(n-1))<br>
+          ------OR-------<br>
+          S=n(n+1)/2
         </td>
       </tr>
       <tr>
